@@ -206,6 +206,21 @@ body
     justify-content: center;
 }
 
+.aboutme
+{
+    font-family: 'Share Tech Mono', sans-serif;
+    margin: 5px 10px;
+    font-size: large;
+
+}
+
+p, li
+{
+font-family: 'Share Tech Mono', sans-serif;
+    margin: 5px 10px;
+    font-size: small;
+}
+
 /*project section formatting*/
 .projectrow
 {
